@@ -1,0 +1,9 @@
+.nav-link{
+    text-align: center;
+    color: #000;
+}
+.center {
+    background-color: turquoise;
+    padding-top: center;
+    height: 200px;
+}
